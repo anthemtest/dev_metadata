@@ -64,4 +64,10 @@
     <pluralLabel>Test Custom Objects</pluralLabel>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
+    <validationRules>
+        <fullName>Test</fullName>
+        <active>true</active>
+        <errorConditionFormula>IF(CreatedDate = NOW(), true, false)</errorConditionFormula>
+        <errorMessage>Error</errorMessage>
+    </validationRules>
 </CustomObject>
