@@ -358,6 +358,11 @@
                 <closed>true</closed>
                 <default>false</default>
             </picklistValues>
+            <picklistValues>
+                <fullName>Closed - Reopen</fullName>
+                <closed>false</closed>
+                <default>false</default>
+            </picklistValues>
             <sorted>false</sorted>
         </picklist>
         <trackFeedHistory>false</trackFeedHistory>
