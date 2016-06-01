@@ -133,6 +133,7 @@
     </types>
     <types>
         <members>Case.NewChildCase</members>
+        <members>Case.SendEmail</members>
         <members>CollaborationGroup.NewGroupMember</members>
         <members>CollaborationGroup.NewGroupRecord</members>
         <members>FeedItem.NewTaskFromFeedItem</members>
@@ -205,6 +206,7 @@
         <members>DandBCompany</members>
         <members>DuplicateRecordItem</members>
         <members>DuplicateRecordSet</members>
+        <members>EmailMessage</members>
         <members>Event</members>
         <members>FeedItem</members>
         <members>Idea</members>
