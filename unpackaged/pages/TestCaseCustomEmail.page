@@ -1,0 +1,5 @@
+<apex:page standardController="Case" tabStyle="Case">
+            <apex:dataTable value="{!Case.EmailMessages}" var="email">
+                <apex:column value="{!email.Subject}" />
+            </apex:dataTable>
+</apex:page>
