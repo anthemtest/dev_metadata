@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
+        <members>testApexClass</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
         <members>TestCaseCustomEmail</members>
         <name>ApexPage</name>
     </types>
@@ -85,6 +89,10 @@
         <members>User</members>
         <members>UserProvisioningRequest</members>
         <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Test_Custom_Object__c-en_US</members>
+        <name>CustomObjectTranslation</name>
     </types>
     <types>
         <members>Case</members>
