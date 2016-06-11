@@ -1598,6 +1598,10 @@
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
+        <name>DelegatedTwoFactor</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
         <name>DeleteActivatedContract</name>
     </userPermissions>
     <userPermissions>

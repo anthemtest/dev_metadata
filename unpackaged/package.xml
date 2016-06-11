@@ -24,10 +24,6 @@
         <name>AutoResponseRules</name>
     </types>
     <types>
-        <members>Internal Zone</members>
-        <name>Community</name>
-    </types>
-    <types>
         <members>standard__AppLauncher</members>
         <members>standard__Chatter</members>
         <members>standard__Community</members>
@@ -61,7 +57,9 @@
         <members>DandBCompany</members>
         <members>DuplicateRecordItem</members>
         <members>DuplicateRecordSet</members>
+        <members>EmailMessage</members>
         <members>Event</members>
+        <members>ExchangeUserMapping</members>
         <members>FeedItem</members>
         <members>ForecastingCategoryMapping</members>
         <members>Idea</members>
@@ -97,6 +95,10 @@
     <types>
         <members>Case</members>
         <name>EscalationRules</name>
+    </types>
+    <types>
+        <members>DE Default</members>
+        <name>HomePageLayout</name>
     </types>
     <types>
         <members>Account</members>
@@ -174,10 +176,6 @@
         <name>QuickAction</name>
     </types>
     <types>
-        <members>ApexDevNet</members>
-        <name>RemoteSiteSetting</name>
-    </types>
-    <types>
         <members>CEO</members>
         <members>CFO</members>
         <members>COO</members>
@@ -224,6 +222,7 @@
         <members>DuplicateRecordSet</members>
         <members>EmailMessage</members>
         <members>Event</members>
+        <members>ExchangeUserMapping</members>
         <members>FeedItem</members>
         <members>Idea</members>
         <members>Lead</members>
